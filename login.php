@@ -16,7 +16,7 @@
 	</form>
 	<br>
 	<div class="card-footer text-center py-3">
-		Belum Punya Akun?
+		Buat akun masyarakat
 		<div class="small"><a href="daftarakun.php">Buat Akun Disini</a></div>
 	</div>
 	<?php
